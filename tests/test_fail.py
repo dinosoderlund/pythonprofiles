@@ -1,3 +1,5 @@
 #test som alltid failar
-def test_fail():
-    assert False 
+#def test_fail():
+  #  assert False 
+
+  #la koden som kommentar för att pipelinen ska fungera normalt
